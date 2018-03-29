@@ -1,0 +1,33 @@
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\ResolveAssemblyReference.cache
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\PGPEncrypter.Form1.resources
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.Properties.Resources.resources
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.csproj.GenerateResource.Cache
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.pdb
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.exe
+C:\RelayHealth\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.pdb
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.csprojResolveAssemblyReference.cache
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\PGPEncrypter.Form1.resources
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.Properties.Resources.resources
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.csproj.GenerateResource.Cache
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\SecureBlackbox.dll
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\SecureBlackbox.PGP.dll
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe.config
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.pdb
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.exe
+C:\G drive Software\bkup\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.pdb
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe.config
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.exe
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.pdb
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.pdb
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\SecureBlackbox.dll
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\SecureBlackbox.PGP.dll
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.csprojResolveAssemblyReference.cache
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\PGPEncrypter.Form1.resources
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.Properties.Resources.resources
+F:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.csproj.GenerateResource.Cache
+C:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\bin\Debug\EncrypterDecrypter.exe.config
+C:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.exe
+C:\Copy to SSD\EncrypterDecrypter\EncrypterDecrypter\obj\Debug\EncrypterDecrypter.pdb
