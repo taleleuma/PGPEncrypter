@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypterDecrypterMultiThreaded", "EncrypterDecrypterMultiThreaded\EncrypterDecrypterMultiThreaded.csproj", "{F5BF4996-04A5-454C-ACCC-8D99C786292B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypterDecrypterSingleThreaded", "EncrypterDecrypterSingleThreaded\EncrypterDecrypterSingleThreaded.csproj", "{2AE73E29-007A-4E26-8575-AF86C10585F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Debug|x64.ActiveCfg = Debug|x64
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Debug|x64.Build.0 = Debug|x64
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Release|x64.ActiveCfg = Release|x64
+		{F5BF4996-04A5-454C-ACCC-8D99C786292B}.Release|x64.Build.0 = Release|x64
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Debug|x64.ActiveCfg = Debug|x64
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Debug|x64.Build.0 = Debug|x64
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Release|x64.ActiveCfg = Release|x64
+		{2AE73E29-007A-4E26-8575-AF86C10585F6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F61475-B926-46A9-96D1-231E9B339EE8}
+	EndGlobalSection
+EndGlobal

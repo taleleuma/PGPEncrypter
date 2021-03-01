@@ -1,0 +1,12 @@
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\bin\x64\Debug\EncrypterDecrypter.exe.config
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\bin\x64\Debug\EncrypterDecrypter.exe
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\bin\x64\Debug\EncrypterDecrypter.pdb
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\bin\x64\Debug\SecureBlackbox.dll
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\bin\x64\Debug\SecureBlackbox.PGP.dll
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\PGPEncrypter.Form1.resources
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypter.Properties.Resources.resources
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypterMultiThreaded.csproj.GenerateResource.cache
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypterMultiThreaded.csproj.CoreCompileInputs.cache
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypterMultiThreaded.csproj.CopyComplete
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypter.exe
+C:\temp\PGPEncrypter\EncrypterDecrypterMultiThreaded\obj\x64\Debug\EncrypterDecrypter.pdb
